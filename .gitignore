@@ -6,8 +6,7 @@ node_modules/
 .env.local
 .env.*.local
 
-# Package file
-package.json
+# Lock file (package.json must stay committed for Vercel)
 package-lock.json
 
 # Build output
